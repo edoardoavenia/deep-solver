@@ -16,9 +16,6 @@ A methodical AI partner that breaks down complex problems step by step, working 
 - 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
 - 💡 [View Full Prompt](./PROMPT.md)
 
-## 📖 Documentation
-The complete prompt for this GPT is available in this repository:
-
 ## 👨‍💻 Author & Links
 - Created by [Edoardo Avenia](https://github.com/edoardoavenia)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
